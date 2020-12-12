@@ -9,6 +9,7 @@ export const APP_STATE_VALUES = {
   },
 }
 
+// eslint-disable-next-line react/prop-types
 export const AppProvider = ({ children }) => {
   const setPersistedState = (state, setValue) => {
     if (state.type === 'object') {
@@ -27,7 +28,7 @@ export const AppProvider = ({ children }) => {
       } else {
         return localStorage.getItem(state.key)
       }
-    } catch {
+    } catch (err) {
       clearPersistedState()
     }
   }

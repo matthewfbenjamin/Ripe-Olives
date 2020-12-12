@@ -6,14 +6,14 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "antd": "^4.9.2",
     "axios": "^0.19.2",
-    "bootstrap": "^4.4.1",
     "http-proxy-middleware": "^1.0.3",
     "react": "^16.13.1",
-    "react-bootstrap": "^1.0.0",
+    "react-card-flip": "^1.0.11",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1"
+    "react-scripts": "4.0.1"
   },
   "scripts": {
     "start": "REACT_APP_STAGE=dev react-scripts start",
@@ -40,6 +40,8 @@
   },
   "proxy": "http://localhost:5000",
   "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-plugin-react": "^7.21.5",
     "gh-pages": "^2.2.0"
   },
   "homepage": "http://matthewfbenjamin.github.io/"
