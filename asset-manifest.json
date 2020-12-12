@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ripe-olives/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/ripe-olives/static/js/main.f4d8751b.chunk.js",
+    "main.js.map": "/ripe-olives/static/js/main.f4d8751b.chunk.js.map",
+    "runtime-main.js": "/ripe-olives/static/js/runtime-main.1ac66a1f.js",
+    "runtime-main.js.map": "/ripe-olives/static/js/runtime-main.1ac66a1f.js.map",
+    "static/css/2.b00201c5.chunk.css": "/ripe-olives/static/css/2.b00201c5.chunk.css",
+    "static/js/2.dd9238fc.chunk.js": "/ripe-olives/static/js/2.dd9238fc.chunk.js",
+    "static/js/2.dd9238fc.chunk.js.map": "/ripe-olives/static/js/2.dd9238fc.chunk.js.map",
+    "index.html": "/ripe-olives/index.html",
+    "static/css/2.b00201c5.chunk.css.map": "/ripe-olives/static/css/2.b00201c5.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/ripe-olives/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.dd9238fc.chunk.js.LICENSE.txt": "/ripe-olives/static/js/2.dd9238fc.chunk.js.LICENSE.txt",
+    "static/media/b-bad.54389c5b.jpeg": "/ripe-olives/static/media/b-bad.54389c5b.jpeg",
+    "static/media/b-excited-0.010b6242.png": "/ripe-olives/static/media/b-excited-0.010b6242.png",
+    "static/media/b-neutral.226afc22.jpeg": "/ripe-olives/static/media/b-neutral.226afc22.jpeg",
+    "static/media/d-bad.83c6ee66.png": "/ripe-olives/static/media/d-bad.83c6ee66.png",
+    "static/media/d-excited-0.2ff0a81d.jpeg": "/ripe-olives/static/media/d-excited-0.2ff0a81d.jpeg",
+    "static/media/d-neutral-0.cf9ac5c1.jpeg": "/ripe-olives/static/media/d-neutral-0.cf9ac5c1.jpeg",
+    "static/media/rottenTomatoesLogo.6649b236.png": "/ripe-olives/static/media/rottenTomatoesLogo.6649b236.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac66a1f.js",
+    "static/css/2.b00201c5.chunk.css",
+    "static/js/2.dd9238fc.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f4d8751b.chunk.js"
+  ]
+}
