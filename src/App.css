@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.react-card-flip-xs-img {
+  margin-bottom: 8px;
+}
