@@ -9,8 +9,7 @@ export const APP_STATE_VALUES = {
   },
 }
 
-// eslint-disable-next-line react/prop-types
-export const AppProvider = ({ children }) => {
+const AppProvider = ({ children }) => {
   const setPersistedState = (state, setValue) => {
     if (state.type === 'object') {
       localStorage.setItem(state.key, JSON.stringify(setValue))  
@@ -46,3 +45,5 @@ export const AppProvider = ({ children }) => {
     </AppContext.Provider>
   )
 }
+
+export default AppProvider
